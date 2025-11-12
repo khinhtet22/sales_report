@@ -4,7 +4,7 @@
 
 This project analyzes product sales data using **Python** to uncover business insights such as top-selling items, revenue trends, and profit performance.  
 It demonstrates how to perform **data cleaning**, **exploratory data analysis (EDA)**, and **visualization** in a real-world sales scenario.
-
+project link: https://www.datacamp.com/datalab/w/7baef49d-462e-463b-a329-b11e4d19db78/print-notebook/notebook.ipynb
 ---
 
 ## ✅ Project Overview
