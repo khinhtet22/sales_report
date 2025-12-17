@@ -83,7 +83,7 @@ The objective is to **optimize revenue while balancing sales effort and efficien
 ## ⚙️ Proposed Business Metric: Revenue per Hour (RPH)
 
 <p align="center">
-  <img src="images/Proposed Business Metric.png" width="800" alt="Proposed Business Metric">
+  <img src="images/Proposed Business Metrix.png" width="800" alt="Proposed Business Metric">
 </p>
 
 > **Revenue per Hour of Sales Effort (RPH)**  
@@ -100,7 +100,7 @@ This metric balances **revenue impact** with **team effort**, enabling fair comp
 </p>
 
 <p align="center">
-  <img src="images/Sales Performance comparison-v.png" width="800" alt="Sales Method Performance Assumptions">
+  <img src="images/Sales Performance comparison.png" width="800" alt="Sales Method Performance Assumptions">
 </p>
 
 ### Summary
@@ -125,7 +125,7 @@ This metric balances **revenue impact** with **team effort**, enabling fair comp
 ## ✅ Final Recommendations
 
 <p align="center">
-  <img src="images/Final Summary Recommendations.png" width="800" alt="Final Recommendations">
+  <img src="images/final summary and recommendations.png" width="800" alt="Final Recommendations">
 </p>
 
 ### Recommended Strategy
