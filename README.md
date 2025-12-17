@@ -93,12 +93,9 @@ This metric balances **revenue impact** with **team effort**, enabling fair comp
 ## ⚖️ Sales Method Performance Comparison
 
 <p align="center">
-  <img src="images/Sale Performance comparison-v.png" width="800" alt="Sales Method Performance Scatter">
+  <img src="images/Sale Performance comparisonv.png" width="800" alt="Sales Method Performance Scatter">
 </p>
 
-<p align="center">
-  <img src="images/Sale Performance comparison.png" width="800" alt="Sales Method Performance Assumptions">
-</p>
 
 ### Summary
 - **Email**: Highest RPH due to minimal time and broad reach  
@@ -109,10 +106,6 @@ This metric balances **revenue impact** with **team effort**, enabling fair comp
 
 ## 🔍 Key Findings
 
-<p align="center">
-  <img src="images/key insights.png" width="800" alt="Key Findings">
-</p>
-
 - Email maximizes reach with minimal effort  
 - Email + Call increases customer value through personalization  
 - Call-only approach limits scalability  
@@ -120,10 +113,6 @@ This metric balances **revenue impact** with **team effort**, enabling fair comp
 ---
 
 ## ✅ Final Recommendations
-
-<p align="center">
-  <img src="images/final summary and recommendations.png" width="800" alt="Final Recommendations">
-</p>
 
 ### Recommended Strategy
 - Use **Email** for fast, wide customer reach  
