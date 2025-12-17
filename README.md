@@ -8,7 +8,7 @@ The goal is to **optimize revenue while balancing sales effort and efficiency**.
 ## 🧭 Business Context & Goals
 
 <p align="center">
-  <img src="images/business_context.png" width="800">
+  <img src="images/business context.png" width="800">
 </p>
 
 **Objectives**
@@ -21,7 +21,7 @@ The goal is to **optimize revenue while balancing sales effort and efficiency**.
 ## 👥 Customer & Sales Overview
 
 <p align="center">
-  <img src="images/customers_sales_overview_1.png" width="800">
+  <img src="images/customers sales overview1.png" width="800">
 </p>
 
 <p align="center">
