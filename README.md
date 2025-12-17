@@ -93,7 +93,7 @@ This metric balances **revenue impact** with **team effort**, enabling fair comp
 ## ⚖️ Sales Method Performance Comparison
 
 <p align="center">
-  <img src="images/Sale Performance comparisonv.png" width="800" alt="Sales Method Performance Scatter">
+  <img src="images/Sale  Performance comparison-v.png" width="800" alt="Sales Method Performance Scatter">
 </p>
 
 
