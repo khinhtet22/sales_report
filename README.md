@@ -7,9 +7,6 @@ The objective is to **optimize revenue while balancing sales effort and efficien
 
 ## 🧭 Business Context & Goals
 
-<p align="center">
-  <img src="images/Business Context.png" width="800" alt="Business Context and Goals">
-</p>
 
 ### Objectives
 - Optimize sales strategy for revenue and efficiency  
@@ -38,7 +35,7 @@ The objective is to **optimize revenue while balancing sales effort and efficien
 ## ⏱ Revenue & Number of Purchasers Over Time
 
 <p align="center">
-  <img src="images/revenue_purchasers_over_time.png" width="800" alt="Revenue and Purchasers Over Time">
+  <img src="images/no of purchase over time.png" width="800" alt="Revenue and Purchasers Over Time">
 </p>
 
 ### Insights
@@ -51,7 +48,7 @@ The objective is to **optimize revenue while balancing sales effort and efficien
 ## 📈 Additional Customer Insights (Tenure Analysis)
 
 <p align="center">
-  <img src="images/customer_insights.png" width="800" alt="Customer Tenure Insights">
+  <img src="images/customer insight.png" width="800" alt="Customer Tenure Insights">
 </p>
 
 ### Findings
@@ -63,7 +60,7 @@ The objective is to **optimize revenue while balancing sales effort and efficien
 ## 📊 Revenue Distribution
 
 <p align="center">
-  <img src="images/revenue_distribution.png" width="800" alt="Revenue Distribution">
+  <img src="images/revenue distribution.png" width="800" alt="Revenue Distribution">
 </p>
 
 ### Notes
@@ -73,10 +70,6 @@ The objective is to **optimize revenue while balancing sales effort and efficien
 ---
 
 ## 🧪 Data Validation & Cleaning Summary
-
-<p align="center">
-  <img src="images/data_validation_cleaning.png" width="800" alt="Data Validation and Cleaning Summary">
-</p>
 
 ### Data Quality Checks
 - 15,000 rows validated  
@@ -90,7 +83,7 @@ The objective is to **optimize revenue while balancing sales effort and efficien
 ## ⚙️ Proposed Business Metric: Revenue per Hour (RPH)
 
 <p align="center">
-  <img src="images/proposed_business_metric.png" width="800" alt="Proposed Business Metric">
+  <img src="images/Proposed Business Metric.png" width="800" alt="Proposed Business Metric">
 </p>
 
 > **Revenue per Hour of Sales Effort (RPH)**  
@@ -103,11 +96,11 @@ This metric balances **revenue impact** with **team effort**, enabling fair comp
 ## ⚖️ Sales Method Performance Comparison
 
 <p align="center">
-  <img src="images/sales_performance_scatter.png" width="800" alt="Sales Method Performance Scatter">
+  <img src="images/Sales Performance comparison-v.png" width="800" alt="Sales Method Performance Scatter">
 </p>
 
 <p align="center">
-  <img src="images/sales_performance_assumptions.png" width="800" alt="Sales Method Performance Assumptions">
+  <img src="images/Sales Performance comparison-v.png" width="800" alt="Sales Method Performance Assumptions">
 </p>
 
 ### Summary
@@ -120,7 +113,7 @@ This metric balances **revenue impact** with **team effort**, enabling fair comp
 ## 🔍 Key Findings
 
 <p align="center">
-  <img src="images/key_findings.png" width="800" alt="Key Findings">
+  <img src="images/key insights.png" width="800" alt="Key Findings">
 </p>
 
 - Email maximizes reach with minimal effort  
@@ -132,7 +125,7 @@ This metric balances **revenue impact** with **team effort**, enabling fair comp
 ## ✅ Final Recommendations
 
 <p align="center">
-  <img src="images/final summary recommendations.png" width="800" alt="Final Recommendations">
+  <img src="images/Final Summary Recommendations.png" width="800" alt="Final Recommendations">
 </p>
 
 ### Recommended Strategy
