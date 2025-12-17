@@ -86,9 +86,6 @@ The objective is to **optimize revenue while balancing sales effort and efficien
   <img src="images/Proposed Business Matrix.png" width="800" alt="Proposed Business Metric">
 </p>
 
-> **Revenue per Hour of Sales Effort (RPH)**  
-> = Total Revenue ÷ Total Sales Hours  
-
 This metric balances **revenue impact** with **team effort**, enabling fair comparison across sales methods.
 
 ---
