@@ -8,7 +8,7 @@ The objective is to **optimize revenue while balancing sales effort and efficien
 ## 🧭 Business Context & Goals
 
 <p align="center">
-  <img src="images/business context.png" width="800" alt="Business Context and Goals">
+  <img src="images/Business Context.png" width="800" alt="Business Context and Goals">
 </p>
 
 ### Objectives
@@ -21,11 +21,11 @@ The objective is to **optimize revenue while balancing sales effort and efficien
 ## 👥 Customer & Sales Overview
 
 <p align="center">
-  <img src="images/customers sales overview1.png" width="800" alt="Customer and Sales Overview Charts">
+  <img src="images/Customers and Sales Overview.png" width="800" alt="Customer and Sales Overview Charts">
 </p>
 
 <p align="center">
-  <img src="images/customers_sales_overview_2.png" width="800" alt="Customer and Sales Overview Table">
+  <img src="images/Customers and Sales Overview2.png" width="800" alt="Customer and Sales Overview Table">
 </p>
 
 ### Key Observations
